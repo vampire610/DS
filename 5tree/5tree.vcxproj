@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{9eb4fb22-798f-4b81-990e-18986ffdd6f1}</ProjectGuid>
-    <RootNamespace>My1sqlist</RootNamespace>
+    <ProjectGuid>{6e89ed95-4e7a-4f7f-99dd-f0cc7939f27f}</ProjectGuid>
+    <RootNamespace>My5tree</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -140,14 +140,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="search.cpp" />
-    <ClCompile Include="sqlist.cpp" />
-    <ClCompile Include="exam.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="exam.h" />
-    <ClInclude Include="search.h" />
-    <ClInclude Include="sqlist.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

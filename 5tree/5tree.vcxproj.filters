@@ -18,25 +18,5 @@
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="sqlist.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="exam.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="search.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="sqlist.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="exam.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="search.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>

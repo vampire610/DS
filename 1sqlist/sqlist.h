@@ -21,5 +21,8 @@ bool ListInsert(SqList& L, int i, ElemType e);
 
 bool ListDelete(SqList& L, int i, ElemType& e);
 
+void PrintList(SqList L);
+
+int LocateElem(SqList L, ElemType e);
 
 #endif
